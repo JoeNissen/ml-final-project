@@ -3,6 +3,7 @@
 > **Project Collaboration Notes**  
 > Most of the code for this project was written collaboratively by both group members in **Google Colab**.  
 > GitHub Usernames: **JoeNissen** and **pnagpal1**
+> 
 > Original and Updated model found in folder original_and_updated_code
 >  
 > The work was split evenly between both group members. Both collaborators worked together to get the original code running and to implement the hypothesis.  
