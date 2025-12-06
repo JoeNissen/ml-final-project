@@ -12,8 +12,6 @@
 
 ---
 
-# Can you rely on your model evaluation? Improving model evaluation with synthetic test data
-
 [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/vanderschaarlab/3S-Testing/blob/main/LICENSE)
 
